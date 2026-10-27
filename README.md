@@ -25,7 +25,6 @@ Before the class, follow the [installation instructions to download all required
 - In-ClassScripts: This folder contains code files you will need for the workshop:
     - intro_jupyter_notebook.ipynb
 - PresentationMaterials: This folder contains PowerPoint slides and other presentation materials used in the workshop
-- Resources: This folder contains cheatsheets to assist you during the workshop and links to external sources for you to continue your learning
 
 
 ## Post-Class Survey
