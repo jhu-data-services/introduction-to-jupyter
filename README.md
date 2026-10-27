@@ -1,5 +1,9 @@
-# Workshop Name
-[description]
+# Combining Python Code and Documentation: An Introduction to Jupyter Notebooks and JupyterLab
+Jupyter Notebooks let you write Python code, run it, and explain your thinking in the same document. Code cells execute and show real output. Text cells hold your notes and explanations. This hands-on workshop covers the notebook interface, writing and running Python code, and how notebooks fit into JupyterLab, the workspace they live in. Basic familiarity with Python is helpful but not required.
+
+- **Date:** Tuesday, October 27, 2026
+- **Time:** 12:00pm - 1:30pm
+- **Audience:** Open to Hopkins students, faculty, and staff
 
 
 ## JHU Data Services   
@@ -19,15 +23,14 @@ Before the class, follow the [installation instructions to download all required
 ## Description of Files
 - Data: This folder contains raw data files to be used during hands-on activities in the workshop
 - In-ClassScripts: This folder contains code files you will need for the workshop:
-    - [file1]
-    - [file2]
-    - [file3]
+    - intro_jupyter_notebook.ipynb
 - PresentationMaterials: This folder contains PowerPoint slides and other presentation materials used in the workshop
 - Resources: This folder contains cheatsheets to assist you during the workshop and links to external sources for you to continue your learning
 
 
 ## Post-Class Survey
-If you have taken the live webinar for this class, please take this survey: [link name](url)
+If you have taken the live webinar for this class, please take this survey: [Workshop Survey](https://bit.ly/dsds-survey 
+)
 
 
 ## License and Terms of Use
@@ -40,4 +43,4 @@ The images, external resources, and cheatsheets linked in this repository may ha
 
 ## Citation
 Please cite this material as:    
-Johns Hopkins University Data Services. [Date of workshop]. [Workshop title]. [URL] 
+Johns Hopkins University Data Services. October 27, 2026. Combining Python Code and Documentation: An Introduction to Jupyter Notebooks and JupyterLab. [https://github.com/jhu-data-services/introduction-to-jupyter] 
