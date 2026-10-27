@@ -5,6 +5,7 @@ Jupyter Notebooks let you write Python code, run it, and explain your thinking i
 - **Time:** 12:00pm - 1:30pm
 - **Audience:** Open to Hopkins students, faculty, and staff
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jhu-data-services/introduction-to-jupyter/HEAD?urlpath=lab)
 
 ## JHU Data Services   
 Website: [dataservices.library.jhu.edu/](https://dataservices.library.jhu.edu/)   
