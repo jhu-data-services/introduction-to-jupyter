@@ -17,10 +17,6 @@ This repository contains materials for one of our live webinars open to JHU stud
 As of March 2020, Data Services workshops are being held virtually on Zoom. [See our calendar to register for upcoming workshops.](https://dataservices.library.jhu.edu/training-workshops/calendar/)
 
 
-## Pre-Class Instructions
-Before the class, follow the [installation instructions to download all required software and tools for this workshop](link-to-github-installation-repo).
-
-
 ## Description of Files
 - Data: This folder contains raw data files to be used during hands-on activities in the workshop
 - In-ClassScripts: This folder contains code files you will need for the workshop:
@@ -29,8 +25,7 @@ Before the class, follow the [installation instructions to download all required
 
 
 ## Post-Class Survey
-If you have taken the live webinar for this class, please take this survey: [Workshop Survey](https://bit.ly/dsds-survey 
-)
+If you have taken the live webinar for this class, please take this survey: [Workshop Survey](https://bit.ly/dsds-survey)
 
 
 ## License and Terms of Use
